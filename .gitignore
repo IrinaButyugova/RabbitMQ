@@ -16,3 +16,13 @@ RabbitMQTest/DirectExchangeConsumerWarning/bin/
 RabbitMQTest/DirectExchangeConsumerWarning/obj/
 RabbitMQTest/DirectExchangeProducer/bin/
 RabbitMQTest/DirectExchangeProducer/obj/
+RabbitMQTest/TopicExchangeConsumerEcological/bin/
+RabbitMQTest/TopicExchangeConsumerEcological/obj/
+RabbitMQTest/TopicExchangeConsumerExpensive/bin/
+RabbitMQTest/TopicExchangeConsumerExpensive/obj/
+RabbitMQTest/TopicExchangeConsumerRed/bin/
+RabbitMQTest/TopicExchangeConsumerRed/obj/
+RabbitMQTest/TopicExchangeConsumerTesla/bin/
+RabbitMQTest/TopicExchangeConsumerTesla/obj/
+RabbitMQTest/TopicExchangeProducer/bin/
+RabbitMQTest/TopicExchangeProducer/obj/
