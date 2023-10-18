@@ -4,3 +4,15 @@ RabbitMQTest/RabbitMQTest/obj/
 RabbitMQTest/DefaultExchangeConsumer/bin/
 RabbitMQTest/DefaultExchangeConsumer/obj/
 RabbitMQTest/packages/
+RabbitMQTest/.vs/
+RabbitMQTest/DirectExchangeConsumerCommon/bin/
+RabbitMQTest/DirectExchangeConsumerCommon/obj/
+RabbitMQTest/DirectExchangeConsumerError/bin/
+RabbitMQTest/DirectExchangeConsumerError/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+RabbitMQTest/DirectExchangeConsumerError/obj/
+RabbitMQTest/DirectExchangeConsumerInfo/bin/
+RabbitMQTest/DirectExchangeConsumerInfo/obj/
+RabbitMQTest/DirectExchangeConsumerWarning/bin/
+RabbitMQTest/DirectExchangeConsumerWarning/obj/
+RabbitMQTest/DirectExchangeProducer/bin/
+RabbitMQTest/DirectExchangeProducer/obj/
