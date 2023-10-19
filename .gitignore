@@ -26,3 +26,10 @@ RabbitMQTest/TopicExchangeConsumerTesla/bin/
 RabbitMQTest/TopicExchangeConsumerTesla/obj/
 RabbitMQTest/TopicExchangeProducer/bin/
 RabbitMQTest/TopicExchangeProducer/obj/
+RabbitMQTest/FanoutExchangeConsumer.Tax/bin/
+RabbitMQTest/FanoutExchangeConsumer.Tax/obj/
+RabbitMQTest/FanoutExchangeConsumerBankCharger/bin/
+RabbitMQTest/FanoutExchangeConsumerBankCharger/obj/
+RabbitMQTest/FanoutExchangeProducer/bin/
+RabbitMQTest/FanoutExchangeProducer/obj/
+RabbitMQTest/FanoutExchangeConsumerTax/obj/
