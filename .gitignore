@@ -33,3 +33,11 @@ RabbitMQTest/FanoutExchangeConsumerBankCharger/obj/
 RabbitMQTest/FanoutExchangeProducer/bin/
 RabbitMQTest/FanoutExchangeProducer/obj/
 RabbitMQTest/FanoutExchangeConsumerTax/obj/
+RabbitMQTest/HeadersExchangeConsumerAbroadUsd/bin/
+RabbitMQTest/HeadersExchangeConsumerAbroadUsd/obj/
+RabbitMQTest/HeadersExchangeConsumerAllUsd/bin/
+RabbitMQTest/HeadersExchangeConsumerAllUsd/obj/
+RabbitMQTest/HeadersExchangeConsumerInternalAll/bin/
+RabbitMQTest/HeadersExchangeConsumerInternalAll/obj/
+RabbitMQTest/HeadersExchangeProducer/bin/
+RabbitMQTest/HeadersExchangeProducer/obj/
